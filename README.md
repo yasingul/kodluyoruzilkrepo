@@ -8,15 +8,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın. 
 [git clone](https://github.com/yasingul/kodluyoruzilkrepo)
 
+```
+git clone: https://github.com/yasingul/kodluyoruzilkrepo
+```
+
 ## Usage
 Projeyi cloneladıktan sonra Visiual Studio Code programını açınız.
 
 Linux için:
-
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
